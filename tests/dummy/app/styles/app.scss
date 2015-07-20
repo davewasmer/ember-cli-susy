@@ -1,0 +1,9 @@
+@import "susy";
+
+.devs li {
+  @include span(6 of 12);
+
+  &:nth-child(even) {
+    @include last;
+  }
+}
