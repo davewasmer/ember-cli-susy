@@ -34,3 +34,7 @@ line to the top of `app.scss` yourself.
 * `ember test --server`
 
 For more information on using ember-cli, visit [http://www.ember-cli.com/](http://www.ember-cli.com/).
+
+## Credits
+
+Hat tip to Yapp Labs, whose [ember-cli-bourbon](https://github.com/yapplabs/ember-cli-bourbon) was used as a starting point for this project.

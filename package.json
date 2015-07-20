@@ -1,7 +1,7 @@
 {
   "name": "ember-cli-susy",
   "description": "Include susy in an Ember app",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "directories": {
     "doc": "doc",
     "test": "tests"
@@ -11,7 +11,7 @@
     "build": "ember build",
     "test": "ember test"
   },
-  "repository": "https://github.com/yapplabs/ember-cli-susy",
+  "repository": "https://github.com/davewasmer/ember-cli-susy",
   "engines": {
     "node": ">= 0.10.0"
   },
